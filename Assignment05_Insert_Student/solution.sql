@@ -7,4 +7,4 @@ VALUES
 (1002, 'Divya', 'Female', 102),
 (1003, 'Karthik', 'Male', 101);
 
-SELECT * FROM Student;
+SELECT * FROM Student; d
